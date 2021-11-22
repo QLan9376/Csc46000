@@ -18,6 +18,9 @@
 ### Exploratory Analysis
 Describe what work you have done so far and include the code. 
 
+We looked at the distribution of all the features by creating boxplots.
+
+
 ### Challenges
 Describe any challenges you've encountered so far. Let me know if there's anything you need help with!
 
@@ -25,4 +28,6 @@ Describe any challenges you've encountered so far. Let me know if there's anythi
 Describe what work you are planning to complete for the final analysis.
 
 ### Contributions
-Describe the contributions that each group member made.
+
+Asma
+I worked on the exploratory data analysis and selecting features for the modeling.
