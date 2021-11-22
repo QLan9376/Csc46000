@@ -30,3 +30,4 @@ Describe what work you are planning to complete for the final analysis.
 ### Contributions
 
 Asma: I worked on the exploratory data analysis and selecting features for the modeling.
+Qing: Data cleaning. 
