@@ -1,12 +1,27 @@
-# Csc46000
+# CSc 46000: Health Failure Prediction
 
+### Group Members
+- Anthony Yang
+- Asma Sadia
+- Qing Lan
 
-data
+### Repository Structure
 
-raw_heart_failure_clinical_records_dataset.csv: Raw data from the heart_failure_clinical_records_dataset.csv
-cleaned.csv: The cleaned and combined dataset for modeling.
+- `data`
+  - `raw_heart_failure_clinical_records_dataset.csv`: Raw data from the heart_failure_clinical_records_dataset.csv
+  - `cleaned.csv: Cleaned and combined dataset used for modeling
+  
+- `code`
+  - `etl_heart_failure_clinical_records_dataset.py`: Cleans raw_heart_failure_clinical_records_dataset.csv
 
+### Exploratory Analysis
+Describe what work you have done so far and include the code. 
 
-code
+### Challenges
+Describe any challenges you've encountered so far. Let me know if there's anything you need help with!
 
-etl_heart_failure_clinical_records_dataset.py:Cleans raw_heart_failure_clinical_records_dataset.csv
+### Future Work
+Describe what work you are planning to complete for the final analysis.
+
+### Contributions
+Describe the contributions that each group member made.
