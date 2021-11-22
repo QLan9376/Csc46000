@@ -13,7 +13,7 @@
   
 - `code`
   - `etl_heart_failure_clinical_records_dataset.py`: Cleans raw_heart_failure_clinical_records_dataset.csv
-  - `EDA_feature_selection`: Exploratory data analysis on selected features for modeling
+  - `EDA_feature_selection`: Exploratory data analysis on the selected features for modeling
 
 ### Exploratory Analysis
 Describe what work you have done so far and include the code. 
