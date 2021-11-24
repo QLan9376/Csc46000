@@ -26,4 +26,5 @@ Describe what work you are planning to complete for the final analysis.
 
 ### Contributions
 
-Asma: I worked on the exploratory data analysis and selecting features for the modeling.
+Qing: Worked on the data cleaning to prepare for data analysis, feature selection and model building.
+Asma: Worked on the exploratory data analysis and selecting features for the modeling.
