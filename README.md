@@ -13,7 +13,8 @@
   
 - `code`
   - `etl_heart_failure_clinical_records_dataset.py`: Cleans raw_heart_failure_clinical_records_dataset.csv
-  - `EDA_feature_selection`: Exploratory data analysis on the selected features for modeling
+  - `EDA_feature_selection.ipynb`: Exploratory data analysis on the selected features for modeling
+  - `build_model.py`: Builds a Logistic Regression model using the cleaned data
 
 ### Exploratory Analysis
 We created a correlation heatmap to see which features are significantly correlated with the target variable, death_event. These features are time, serum_creatinine, ejection_fraction, age, and serum_creatinine. We looked at boxplots to undertsand the distribution of these features and density plots to understand the relationship between the features and death event. The `EDA_feature_selection` includes the excuetive summary of the analysis.
