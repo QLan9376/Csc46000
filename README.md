@@ -32,3 +32,6 @@ For the final analysis, we plan to use other supervised learning algorithm such 
 - Qing: Worked on the data cleaning to prepare for data analysis, feature selection and model building.
 - Asma: Worked on the exploratory data analysis and selecting features for the modeling.
 - Anthony: Worked on model building and evaluating the model.
+
+### Blog
+https://kindhearted-animantarx-b05.notion.site/Heart-Failure-Prediction-8f573ffe9f7a48efb24676699e470ebc
