@@ -17,7 +17,7 @@
   - `build_model.py`: Builds a Logistic Regression model using the cleaned data
 
 ### Exploratory Analysis
-We created a correlation heatmap to see which features are significantly correlated with the target variable, death_event. These features are time, serum_creatinine, ejection_fraction, age, and serum_creatinine. We looked at boxplots to undertsand the distribution of these features and density plots to understand the relationship between the features and death event. The `EDA_feature_selection` includes the excuetive summary of the analysis.
+We created a correlation heatmap to see which features are significantly correlated with the target variable, death_event. These features are time, serum_creatinine, ejection_fraction, age, and serum_sodium. We looked at boxplots to undertsand the distribution of these features and density plots to understand the relationship between the features and death event. The `EDA_feature_selection` includes the excuetive summary of the analysis.
 
 For the Logistic Regression Model, we've used 70%, 80% and 90% training set respectively to evaluate how the model performance changes with more training data. Based on our observations, as the number of training data increase, the model accuracy decreased. The F-1 score also decreased which indicates that the precision and recall were poor. In this case, it seems that more data is hurting the model.
 
